@@ -1,0 +1,25 @@
+*{
+    background-color: grey;
+}
+#text{
+    color: black;
+    font-family:'Bebas Neue', sans-serif;
+    text-align: center;
+    margin: 5px 5px 5px 75px;
+}
+#small{
+    color: rgb(107, 16, 16);
+    font-family: cursive;
+    text-align: center;
+    margin: 5px 5px 5px 100px;
+    font-weight: lighter;
+}
+div{
+    width: 50%;
+    margin-left: 20%;
+}
+#image{
+    
+    border: 10px solid black;
+    width: 50%rem;
+}
